@@ -2,6 +2,8 @@
 /* more headers goes there */
 /* betty style doc for function main goes there*/
 /**
+ * positive_or_negative- defines the func
+ * @n: defines the variable
  * main- This executes if stmt
  * Return: returns the value of n
  */
