@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - check the code.
- * @c: takes an integer value
- * Return: Always 0.
+ * _isupper - returns value for uppercase alphabet
+ * @i: takes an integer value
+ * Return: Always zero
  */
 
 int _isupper(int i)
@@ -16,5 +16,4 @@ int _isupper(int i)
 		{
 			return (0);
 		}
-	_putchar('\n');
 }
