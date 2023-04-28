@@ -5,11 +5,9 @@
  * Return: Always 0.
  */
 
-int _isupper(int c);
+int _isupper(int i)
 
 {
-		int i;
-
 		if (i >= 65 && i <= 90)
 		{
 			return (1);
