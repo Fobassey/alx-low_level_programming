@@ -2,8 +2,6 @@
 /* betty style doc for function main goes there */
 /**
  * more_numbers-this prints numbers multiple times
- * @i: is an integer
- * @j: is an integer
  * Return: returns the equivalent values
  */
 
@@ -16,8 +14,11 @@ void more_numbers(void)
 	{
 		for (j = 0; j <= 14; j++)
 		{
-			_putchar(j);
+			if (j >= 10)
+			_putchar(i);
+			_putchar(j % 10 + '0');
 		}
-	_putchar('\n');
+			_putchar('\n');
 	}
+	
 }
