@@ -3,7 +3,6 @@
 /* betty style doc for function main goes there */
 /**
  * main-this includes a list of all prototypes
- * @i: takes an integer
  * Return: returns the equivalent values
  */
 
