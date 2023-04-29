@@ -3,8 +3,6 @@
 /**
  * print_square-this prints a square
  * @size: returns an integer
- * @i: returns an integer
- * @j: returns an integer
  * Return: returns the equivalent values
  */
 
