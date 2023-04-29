@@ -7,7 +7,7 @@
  * Return: returns the equivalent values
  */
 
-int main(void);
+int main(void)
 
 {
 	int i;
@@ -16,7 +16,7 @@ int main(void);
 	{
 		if (i % 15 == 0)
 		{
-			printf("FIZZUZZ");
+			printf("FIZZBUZZ");
 		}
 		else if (i % 3 == 0)
 		{
