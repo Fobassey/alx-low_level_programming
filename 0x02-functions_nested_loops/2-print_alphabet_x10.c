@@ -1,10 +1,10 @@
-#include <main.h>
+#include "main.h"
 /* betty style doc for function main goes there */
 /**
- * main-prints number zero to nine
+ * print_alphabet_x10- prints number zero to nine
  * Return: returns the value zero
  */
-void print_alphabet_x10(void);
+void print_alphabet_x10(void)
 {
 	int m, n;
 
