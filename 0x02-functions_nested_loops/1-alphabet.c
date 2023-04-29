@@ -4,7 +4,7 @@
  * main-prints number zero to nine
  * Return: returns the value zero
  */
-void print_alphabet(void);
+void print_alphabet(void)
 {
 
 	int n;
