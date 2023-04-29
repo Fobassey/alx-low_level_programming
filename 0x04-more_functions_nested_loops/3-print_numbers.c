@@ -2,7 +2,6 @@
 /* betty style doc for function main goes there */
 /**
  * print_numbers- this returns as void
- * @i: is an integer
  * Return: returns the equivalent values
  */
 
