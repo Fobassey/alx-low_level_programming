@@ -3,7 +3,6 @@
 /**
  * print_line- this prints a line
  * @n: takes an integer
- * @i: takes an integer
  * Return: returns the equivalent values
  */
 
