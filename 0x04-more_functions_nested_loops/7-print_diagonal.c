@@ -3,8 +3,6 @@
 /**
  * print_diagonal-thisprints a diagonal line
  * @n: takes an integer
- * @i: takes an integer
- * @j: takes an integer
  * Return: returns the equivalent values
  */
 
