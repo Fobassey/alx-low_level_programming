@@ -1,7 +1,7 @@
 #include "main.h"
 /* betty style doc for function main goes there */
 /**
- * main-prints number zero to nine
+ * print_alphabet- prints number zero to nine
  * Return: returns the value zero
  */
 void print_alphabet(void)
