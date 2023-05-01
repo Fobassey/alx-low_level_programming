@@ -1,11 +1,11 @@
-#include <main.h>
+#include "main.h"
 /* betty style doc for function main goes there */
 /**
- * main-prints number zero to nine
+ * jack_bauer- prints number zero to nine
  * Return: returns the value zero
  */
 
-void jack_bauer(void);
+void jack_bauer(void)
 {
 	int a, b, c, d;
 
